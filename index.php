@@ -65,13 +65,14 @@ include_once('configs.php');
         <div class="carousel-inner">
             <div class="item active">
                 <picture>
-                    <source media="(min-width: 1400px)" srcset="img/PPC_Apartments_Feature_Desktop.webp">
-                    <source media="(max-width: 650px)" srcset="img/PPC_Apartments_Feature_Desktop650.webp">
-                    <img src="img/PPC_Apartments_Feature_Desktop1200.webp" title="<?= __('site_img_alt') ?>" alt="<?= __('site_img_alt') ?>"  />
+                    <source media="(min-width: 1400px)" srcset="img/IstanbulApartments-Main.png">
+                    <source media="(max-width: 650px)" srcset="img/IstanbulApartments-Main.png">
+                    <img src="img/IstanbulApartments-Main.png" title="<?= __('site_img_alt') ?>" alt="<?= __('site_img_alt') ?>"  />
                 </picture>
                 <div class="carousel-caption">
+                    <h4><?= __('stay_ahead_the_curve') ?></h4>
                     <h1><?= __('emerging_global_realestate_goms') ?></h1>
-                    <p><?= __('stay_ahead_the_curve') ?></p>
+                    <p><?=__('buy_manage_rent')?></p>
                     <button class="butn butn-red" onclick="openModal('#sendLead_mdl', 'scheduale');"><?= __('scheduale_free_consultation') ?></button>
                 </div>
             </div>
@@ -106,7 +107,7 @@ include_once('configs.php');
             <div class="col-md-6 offers_side side_1">
 
                 <div class="row offer" onclick="openModal('#sendLead_mdl', 'inquire');">
-                    <p class="col-12"><?= __('offer2_txt') ?></p>
+                    <h3 class="col-12 pl-5"><?= __('offer2_txt') ?></h3>
                     <div class="col-8 top_border">
                     </div>
                     <div class="col-8 col-lg-8 bg_img">
@@ -120,7 +121,7 @@ include_once('configs.php');
                 </div>
 
                 <div class="row offer" onclick="openModal('#sendLead_mdl', 'inquire');">
-                    <p class="col-12"><?= __('offer1_txt') ?></p>
+                    <h3 class="col-12 pl-5"><?= __('offer1_txt') ?></h3>
                     <div class="col-8 top_border">
                     </div>
                     <div class="col-8 col-lg-8 bg_img">
@@ -134,7 +135,7 @@ include_once('configs.php');
                 </div>
 
                 <div class="row offer" onclick="openModal('#sendLead_mdl', 'inquire');">
-                    <p class="col-12"><?= __('offer3_txt') ?></p>
+                    <h3 class="col-12 pl-5"><?= __('offer3_txt') ?></h3>
                     <div class="col-8 top_border">
                     </div>
                     <div class="col-8 col-lg-8 bg_img">
@@ -150,7 +151,7 @@ include_once('configs.php');
 
             <div class="col-md-6 offers_side side_2">
                 <div class="row offer" onclick="openModal('#sendLead_mdl', 'inquire');">
-                    <p class="col-12"><?= __('offer4_txt') ?></p>
+                    <h3 class="col-12 pl-5"><?= __('offer4_txt') ?></h3>
                     <div class="col-8 top_border">
                     </div>
                     <div class="col-8 col-lg-8 bg_img">
@@ -164,7 +165,7 @@ include_once('configs.php');
                 </div>
 
                 <div class="row offer" onclick="openModal('#sendLead_mdl', 'inquire');">
-                    <p class="col-12"><?= __('offer5_txt') ?></p>
+                    <h3 class="col-12 pl-5"><?= __('offer5_txt') ?></h3>
                     <div class="col-8 top_border">
                     </div>
                     <div class="col-8 col-lg-8 bg_img">
@@ -178,7 +179,7 @@ include_once('configs.php');
                 </div>
 
                 <div class="row offer" onclick="openModal('#sendLead_mdl', 'inquire');">
-                    <p class="col-12"><?= __('offer6_txt') ?></p>
+                    <h3 class="col-12 pl-5"><?= __('offer6_txt') ?></h3>
                     <div class="col-8 top_border">
                     </div>
                     <div class="col-8 col-lg-8 bg_img">
@@ -237,7 +238,7 @@ include_once('configs.php');
                         </div>
                         <div><input type="tel" maxlength="11" class="padding_left100px" onfocus="openMenu('#countriesList','#form_mdl #zip')" onblur="chk(this, 'isPhone')" name="phone" id="phone" placeholder="<?= __('phone') ?>" /></div>
                         <div><input type="email" onblur="chk(this, 'isEmail')" name="email" id="email" placeholder="<?= __('email') ?>" /></div>
-                        <div><button class="butn butn-red"><?=__('connect')?></button></div>
+                        <div><button class="butn butn-red"><?=__('reach_out')?></button></div>
                     </div>
                 </form>
             </div>

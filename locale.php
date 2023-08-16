@@ -17,9 +17,10 @@
             "reviews" => "Reviews",
             "news" => "News",
             "site_phone" => "+90 212 215 00 22",
-            "emerging_global_realestate_goms" => "INVEST IN ISTANBUL<br/>FOR MAX RETURNS",
-            "stay_ahead_the_curve" => "Buy, Manage, Rent, & Resell with Profit",
-            "scheduale_free_consultation" => "Schedule free consultation",
+            "emerging_global_realestate_goms" => "ISTANBUL",
+            "stay_ahead_the_curve" => "RUB SHOULDERS WITH<br/>OTTOMAN SULTANS IN",
+            "scheduale_free_consultation" => "CONTACT US TODAY <br><small>TO FIND HOW WE CAN HELP",
+            "buy_manage_rent" => "Buy, Manage, Rent & Resell with Profit",
 
             "separator_phrase_1" => "Full Tax Shelter Available",
             "separator_phrase_2" => "ROI Over 20% per Annum",
@@ -28,22 +29,22 @@
             "separator_button" => "FOR MANY MORE LISTINGS INQUIRE WITH US TODAY",
 
             "offer1_txt" => "For Investment: 1-2 Bed Golden Horn Apartments",
-            "offer1" => "<i>$195,000</i>Eyup, Istanbul<br/>1 Bed / 1 Bath<br/>131 m²",
+            "offer1" => "Eyup, Istanbul<br/>1 Bed / 1 Bath<br/>131 m²",
 
             "offer2_txt" => "Sense Levent Designer Residences",
-            "offer2" => "<i>$164,900</i>Levent, Istanbul<br/>1 Bed / 1 Bath<br/>65 m²",
+            "offer2" => "Levent, Istanbul<br/>1 Bed / 1 Bath<br/>65 m²",
             
             "offer3_txt" => "Panoramic Apartments at Unmissable Prices",
-            "offer3" => "<i>$325,000</i>Zeytinburnu, Istanbul<br/>1 Bed / 1 Bath<br/>120 m²",
+            "offer3" => "Little Bosphorus, I.<br/>2 Bed / 2 Bath<br/>120 m²",
 
             "offer4_txt" => "Seafront Hotel Residences in Central Istanbul",
-            "offer4" => "<i>$390,000</i>Kadiköy, Istanbul<br/>2 Bed / 1 Bath<br/>110 m²",
+            "offer4" => "Kadiköy, Istanbul<br/>2 Bed / 1 Bath<br/>110 m²",
             
             "offer5_txt" => "Exclusive Homes in Nişantaşı, Central Istanbul",
-            "offer5" => "<i>$510,000</i>Nişantaşı, Istanbul<br/>2 Bed / 2 Bath<br/>115 m²",
+            "offer5" => "Nişantaşı, Istanbul<br/>2 Bed / 2 Bath<br/>115 m²",
 
             "offer6_txt" => "Penthouse-Style Apartments in the Heart of Istanbul",
-            "offer6" => "<i>$1,600,000</i>Bomonti, Istanbul<br/>3 Bed / 2 Bath<br/>200 m²",
+            "offer6" => "Bomonti, Istanbul<br/>3 Bed / 2 Bath<br/>200 m²",
 
             "inquire" => "Inquire",
             "join_maillist" => "Join Our Mailing List and Stay Informed on All Things Turkish Real Estate.",
@@ -79,6 +80,7 @@
             "news3_title" => "Advantages to Growing Your Business In Turkey",
             "news3_date" => date('F d, Y', strtotime('-30 DAYS')),
 
+            "reach_out" => "Reach Out",
             "read_more_news" => "READ MORE TURKISH<br /> REAL ESTATE NEWS",
             "contact" => "Contact",
             "learn_more_about_this_property" => "Learn more about this property, plus many more.",
@@ -103,7 +105,7 @@
 
             "inquire_header" => "Request full access to all of our listings.",
             "read_more_header" => "Stay current on all things Turkish real estate",
-            "contact_header" => "Curious about Turkish readl estate? You're in the right place.",
+            "contact_header" => "Curious about Turkish readl estate?<br> You're in the right place.",
             "scheduale_header" => "Meet with one of out export advidors. We are here to help.",
             "country_code" => "Country code",
             "copyrights" => "Copyright © 2023 Property Turkey Ltd. All Rights Reserved.",
