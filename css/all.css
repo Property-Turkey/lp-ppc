@@ -579,6 +579,7 @@ a:hover {
     text-align: center;
     color: var(--brown);
     font-size: 20px;
+    font-style: italic;
     font-weight: bold;
 }
 .h_separator > .col{
