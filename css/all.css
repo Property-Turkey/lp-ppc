@@ -251,6 +251,7 @@ a:hover {
 .offers-and-join .offers_side h2 {
     font-size: 22px;
     color: var(--brown);
+    line-height: 1.5;
 }
 
 .offers-and-join .offers_side h2 i {
