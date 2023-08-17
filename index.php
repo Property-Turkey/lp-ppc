@@ -65,9 +65,9 @@ include_once('configs.php');
         <div class="carousel-inner">
             <div class="item active">
                 <picture>
-                    <source media="(min-width: 1400px)" srcset="img/IstanbulApartments-Main.png">
-                    <source media="(max-width: 650px)" srcset="img/IstanbulApartments-Main.png">
-                    <img src="img/IstanbulApartments-Main.png" title="<?= __('site_img_alt') ?>" alt="<?= __('site_img_alt') ?>"  />
+                    <source media="(min-width: 1400px)" srcset="img/IstanbulApartments-Main.webp">
+                    <source media="(max-width: 650px)" srcset="img/IstanbulApartments-Main.webp">
+                    <img src="img/IstanbulApartments-Main.webp" title="<?= __('site_img_alt') ?>" alt="<?= __('site_img_alt') ?>"  />
                 </picture>
                 <div class="carousel-caption">
                     <h4><?= __('stay_ahead_the_curve') ?></h4>
