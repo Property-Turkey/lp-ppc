@@ -224,6 +224,11 @@ a:hover {
     color: var(--dark_gray);
 }
 
+.carousel-caption button span{
+    top: 8px;
+    position: relative;
+}
+
 .offers-and-join .offers_side .offer {
     padding-top: 16px;
 }
@@ -302,7 +307,11 @@ a:hover {
     margin-top: 4px;
     margin-bottom: 12px;
 }
-
+.news .inquire_form input::placeholder{
+    font-style: italic;
+    font-weight: bold;
+    color: #b7b0a2;    
+}
 .joinus_side {
     padding: 6%;
     text-align: center;
@@ -507,8 +516,9 @@ a:hover {
 }
 
 .news .side_1 button {
+    padding: 10px 26px;
     font-size: 22px;
-}
+  }
 
 .news .inquire_form input{
     background: #fff;
@@ -582,6 +592,7 @@ a:hover {
     font-size: 20px;
     font-style: italic;
     font-weight: bold;
+    font-family: 'Mont';
 }
 .h_separator > .col{
     white-space: nowrap;
@@ -951,12 +962,16 @@ a:hover {
         font-size: 16px;
     }
 
+    .carousel-caption button span{
+        top: 4px;
+        position: relative;
+    }
     .h_separator > .col {
         font-size: 16px;
     }
 
     .row .offer h3{
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .offers-and-join .offers_side .bg_img {
@@ -987,8 +1002,13 @@ a:hover {
 
     .offers-and-join .offers_side .info button {
         font-size: 14px;
-    }
+        margin-left: 10px;
+        margin-bottom: 0;
+        width: 80%;
+        padding-left: 0;
+        padding-right: 0;
 
+    }
 
     .partners .side_2 h3 {
         margin-bottom: 20px;
@@ -1012,13 +1032,16 @@ a:hover {
     }
 
     .news h3 {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .news .side_2 p {
         font-size: 16px;
     }
 
+    .news .side_2 {
+        padding: 0px 4%;
+    }
     .inline_input {
         margin-left: 0px;
     }
@@ -1027,7 +1050,20 @@ a:hover {
     .inquire_form input[type="tel"],
     .inquire_form input[type="email"]{
         width: 100%;
+        font-size: 14px;
     }
+
+    .news .inquire_form input::placeholder{
+        font-style: italic;
+        font-size: 14px;
+
+    }
+
+    .footer {
+        padding: 20px;
+        font-size: 16px;
+    }
+
     .footer .side_2 a img {
         height: 22px;
     }

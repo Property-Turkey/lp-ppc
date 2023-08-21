@@ -19,7 +19,7 @@
             "site_phone" => "+90 212 215 00 22",
             "emerging_global_realestate_goms" => "ISTANBUL",
             "stay_ahead_the_curve" => "RUB SHOULDERS WITH<br/>OTTOMAN SULTANS IN",
-            "scheduale_free_consultation" => "CONTACT US TODAY <br><small>TO FIND HOW WE CAN HELP",
+            "scheduale_free_consultation" => "<span>CONTACT US TODAY</span><br><small>TO FIND HOW WE CAN HELP",
             "buy_manage_rent" => "Buy, Manage, Rent & Resell with Profit",
 
             "separator_phrase_1" => "Full Tax Shelter Available",
